@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26c29dc5-f4d4-4dab-844e-ed6a6037f47c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MMO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MMO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Raznoe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,10 +36,25 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.MMO">
+  <component name="RunManager" selected="Application.Peremen">
     <configuration name="MMO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MMO" />
+      <module name="VAMPIR" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Peremen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Peremen" />
+      <module name="VAMPIR" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Raznoe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Raznoe" />
       <module name="VAMPIR" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -67,6 +82,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Peremen" />
+        <item itemvalue="Application.Raznoe" />
         <item itemvalue="Application.MMO" />
         <item itemvalue="Application.Rpg" />
       </list>
