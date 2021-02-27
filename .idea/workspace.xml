@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26c29dc5-f4d4-4dab-844e-ed6a6037f47c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Raznoe.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/VAMPIR/Peremen.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/VAMPIR/Peremen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Peremen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Peremen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/БОДЬКОВІ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/БОДЬКОВІ.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +41,13 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager" selected="Application.Peremen">
+    <configuration name="БОДЬКОВІ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="БОДЬКОВІ" />
+      <module name="VAMPIR" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MMO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MMO" />
       <module name="VAMPIR" />
@@ -84,6 +93,7 @@
       <list>
         <item itemvalue="Application.Peremen" />
         <item itemvalue="Application.Raznoe" />
+        <item itemvalue="Application.БОДЬКОВІ" />
         <item itemvalue="Application.MMO" />
         <item itemvalue="Application.Rpg" />
       </list>
