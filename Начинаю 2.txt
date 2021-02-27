@@ -1,2 +1,2 @@
-prind("Ulala")
-print("No Ulala")
+prind("Ulala;")
+print("No Ulala;")
