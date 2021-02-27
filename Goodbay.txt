@@ -1,1 +1,5 @@
-print("Goodbay old;")
+
+print("Goodbay old")
+print("Conflict;")
+
+
