@@ -13,6 +13,8 @@ public class Peremen {
         char ch2 =5;
         boolean bl = true;
         boolean bl2 =false;
+        String str ="string1";
+        str = "string2"
         System.out.println(i);
         System.out.println(b);
         System.out.println(s);
@@ -40,7 +42,7 @@ public class Peremen {
         p1 -=10;
         p1 *=10;
         p1 /=10;
-//_______________________________________________ Інкремен
+//_______________________________________________ Інкремен (++)
         int p2 = 100;
                            // ++    p2 = p2+1,p2+=1
                           //____________________Посфиксний Инкримент
@@ -53,6 +55,29 @@ public class Peremen {
         int z = 100;
         int x = ++z;
         System.out.println(z++);// z = 101 так як тут ++ посфиксний,но дальше z буду вже =102
+//_______________________________Дикримент (--)
+        int c = 100;
+        a = c--;// 100
+        a =--c;// 99
+        //_____________________________ЛОГИЧЕСКИЕ ОПЕРАТОРЫ   ==,>,<,>=,<=,!=, &&
+        boolean result0 =100==100;//true
+        boolean result1 = 100 == 99;//false
+
+
+        int res1 = 100;
+        int res2 =99;
+
+        boolean result2 = res1==res2;//false
+        boolean result3 = res1>res2;//true
+        boolean result4 = res1<res2;//false
+        boolean result5 = res1 != res2;//true(не ровно)
+                                  //логический оператор амперсаннд
+        boolean tt =true;
+        boolean ff=false;
+        boolean result6=tt&&ff;
+
+
+
 
 
 
